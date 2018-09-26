@@ -1,0 +1,180 @@
+<Report>
+  <Channels>
+    <Channel Name="Belarus" />
+    <Channel Name="Russia" />
+    <Channel Name="Kazahstan" />
+    <Channel Name="Armenia" />
+    <Channel Name="Bulgaria" />
+    <Channel Name="Czech Republic" />
+    <Channel Name="Romania" />
+    <Channel Name="Italy" > Channel</Channel>
+  </Channels>
+  <Products>
+    <Product Name="GPS Watch for kids &quot;Masha &amp; the Bear&quot; M1" Code="AGUM1">
+      <Document DocNumber="AG 2018-II/006 ALT       " DocDate="2018-02-06" ChannelName="Belarus" Quantity="10.000" Amount="100.00" />
+      <Document DocNumber="AG 2018-III/014 ALT      " DocDate="2018-03-13" ChannelName="Belarus" Quantity="284.000" Amount="7213.60" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="50.000" Amount="1270.00" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="25.000" Amount="635.00" />
+      <Document DocNumber="AG 2018-VII/037 ALT      " DocDate="2018-07-16" ChannelName="Belarus" Quantity="100.000" Amount="2540.00" />
+    </Product>
+    <Product Name="GPS Watch for kids AGU G2" Code="AGUG2">
+      <Document DocNumber="AG 2018-III/016 BL  " DocDate="2018-02-21" ChannelName="Italy" Quantity="2.000" Amount="64.62" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="25.000" Amount="1045.00" />
+      <Document DocNumber="AG 2018-VII/037 ALT      " DocDate="2018-07-16" ChannelName="Belarus" Quantity="50.000" Amount="2090.00" />
+    </Product>
+    <Product Name="Mesh nebulizer AGU N8" Code="AGUN8">
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="18.09" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="20.000" Amount="732.19" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="120.000" Amount="3204.00" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="120.000" Amount="3204.00" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="80.000" Amount="2136.00" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="20.000" Amount="534.40" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="200.000" Amount="5340.00" />
+    </Product>
+    <Product Name="Nasal aspirator AGU NS12" Code="AGUNS12">
+      <Document DocNumber="AG 2018-I/001 IGT   " DocDate="2018-01-09" ChannelName="Kazahstan" Quantity="720.000" Amount="11376.00" />
+      <Document DocNumber="AG 2018-I/004 ALT        " DocDate="2018-01-24" ChannelName="Belarus" Quantity="324.000" Amount="7865.42" />
+      <Document DocNumber="AG 2017-I/002 GP    " DocDate="2018-01-25" ChannelName="Armenia" Quantity="36.000" Amount="568.80" />
+      <Document DocNumber="AG 2018-II/005 ALT       " DocDate="2018-02-06" ChannelName="Belarus" Quantity="324.000" Amount="9250.20" />
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="12.43" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="1224.000" Amount="29963.52" />
+      <Document DocNumber="AG 2018-III/012 IGT " DocDate="2018-03-06" ChannelName="Kazahstan" Quantity="252.000" Amount="3981.60" />
+      <Document DocNumber="AG 2018-III/015 ME       " DocDate="2018-03-13" ChannelName="Belarus" Quantity="36.000" Amount="1182.96" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="180.000" Amount="2916.00" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="108.000" Amount="1479.60" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="144.000" Amount="2332.80" />
+      <Document DocNumber="AG 2018-VI/030 ME        " DocDate="2018-06-18" ChannelName="Belarus" Quantity="144.000" Amount="3458.16" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="36.000" Amount="583.20" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="108.000" Amount="1749.60" />
+    </Product>
+    <Product Name="Infrared Thermometer AGU IHE5 " Code="AGUIHE5">
+      <Document DocNumber="AG 2018-I/001 IGT   " DocDate="2018-01-09" ChannelName="Kazahstan" Quantity="384.000" Amount="6147.84" />
+      <Document DocNumber="AG 2017-I/002 GP    " DocDate="2018-01-25" ChannelName="Armenia" Quantity="24.000" Amount="372.00" />
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="11.93" />
+      <Document DocNumber="AG 2018-III/012 IGT " DocDate="2018-03-06" ChannelName="Kazahstan" Quantity="720.000" Amount="11527.20" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="288.000" Amount="3945.60" />
+      <Document DocNumber="AG 2018-IV/022 ALT       " DocDate="2018-04-19" ChannelName="Belarus" Quantity="504.000" Amount="13406.40" />
+      <Document DocNumber="AG 2018-IV/023 ME        " DocDate="2018-04-24" ChannelName="Belarus" Quantity="168.000" Amount="5092.08" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="120.000" Amount="1890.00" />
+      <Document DocNumber="AG 2018-VI/027 S    " DocDate="2018-06-07" ChannelName="Bulgaria" Quantity="288.000" Amount="3945.60" />
+      <Document DocNumber="AG 2018-VI/031 ALT       " DocDate="2018-06-18" ChannelName="Belarus" Quantity="720.000" Amount="14520.60" />
+      <Document DocNumber="AG 2018-VI/030 ME        " DocDate="2018-06-18" ChannelName="Belarus" Quantity="264.000" Amount="6058.80" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="912.000" Amount="14601.12" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="24.000" Amount="378.00" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="288.000" Amount="3945.60" />
+    </Product>
+    <Product Name="Infared Thermometer AGU IHE3" Code="NEWAGUIHE3">
+      <Document DocNumber="AG 2018-III/018 DM       " DocDate="2018-03-20" ChannelName="Belarus" Quantity="1.000" Amount="50.00" />
+    </Product>
+    <Product Name="Non-contact Thermometer for Children AGU NC8" Code="AGUNC8">
+      <Document DocNumber="AG 2018-II/009 ALT       " DocDate="2018-02-14" ChannelName="Belarus" Quantity="1.000" Amount="15.00" />
+      <Document DocNumber="AG 2018-III/020 ALT      " DocDate="2018-03-23" ChannelName="Belarus" Quantity="1.000" Amount="15.00" />
+      <Document DocNumber="SAM 2018-VI/008 ALT      " DocDate="2018-06-08" ChannelName="Belarus" Quantity="17.000" Amount="226.10" />
+    </Product>
+    <Product Name="Multifunctional electric kettle AGU EC6" Code="AGUEC6">
+      <Document DocNumber="AG 2018-II/011 ALT       " DocDate="2018-02-26" ChannelName="Belarus" Quantity="3.000" Amount="60.45" />
+      <Document DocNumber="AG 2018-III/021 ALT      " DocDate="2018-03-26" ChannelName="Belarus" Quantity="1.000" Amount="20.15" />
+      <Document DocNumber="AG 2018-IV/022 ALT       " DocDate="2018-04-19" ChannelName="Belarus" Quantity="120.000" Amount="4356.00" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="48.000" Amount="1742.40" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="12.000" Amount="435.60" />
+      <Document DocNumber="AG 2018-VI/031 ALT       " DocDate="2018-06-18" ChannelName="Belarus" Quantity="80.000" Amount="2178.00" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="60.000" Amount="1800.00" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="4.000" Amount="145.20" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="48.000" Amount="1651.20" />
+      <Document DocNumber="AG 2018-VII/037 ALT      " DocDate="2018-07-16" ChannelName="Belarus" Quantity="104.000" Amount="3775.20" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="48.000" Amount="1742.40" />
+    </Product>
+    <Product Name="Smart Natural Light Lamp AGU SUN1" Code="AGUSUN1">
+      <Document DocNumber="AG 2018-I/001 IGT   " DocDate="2018-01-09" ChannelName="Kazahstan" Quantity="32.000" Amount="1964.16" />
+      <Document DocNumber="AG 2018-II/005 ALT       " DocDate="2018-02-06" ChannelName="Belarus" Quantity="80.000" Amount="4576.00" />
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="47.05" />
+      <Document DocNumber="AG 2018-III/016 BL  " DocDate="2018-02-21" ChannelName="Italy" Quantity="1.000" Amount="49.86" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="12.000" Amount="583.44" />
+      <Document DocNumber="AG 2018-IV/022 ALT       " DocDate="2018-04-19" ChannelName="Belarus" Quantity="60.000" Amount="3960.00" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="20.000" Amount="1320.00" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="32.000" Amount="1964.16" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="4.000" Amount="264.00" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="68.000" Amount="4488.00" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="4.000" Amount="264.00" />
+    </Product>
+    <Product Name="Food processor AGU FP7" Code="AGUFP7">
+      <Document DocNumber="AG 2018-II/011 ALT       " DocDate="2018-02-26" ChannelName="Belarus" Quantity="3.000" Amount="108.00" />
+      <Document DocNumber="AG 2018-III/021 ALT      " DocDate="2018-03-26" ChannelName="Belarus" Quantity="1.000" Amount="36.00" />
+      <Document DocNumber="AG 2018-IV/022 ALT       " DocDate="2018-04-19" ChannelName="Belarus" Quantity="200.000" Amount="12220.00" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="40.000" Amount="2444.00" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="4.000" Amount="244.40" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="60.000" Amount="3297.00" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="4.000" Amount="244.20" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="32.000" Amount="1913.60" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="48.000" Amount="2932.80" />
+    </Product>
+    <Product Name="Smart Toothbrush AGU SIT6" Code="NEWAGUSBT5">
+      <Document DocNumber="SAM 2018-V/006 ALT       " DocDate="2018-05-14" ChannelName="Belarus" Quantity="3.000" Amount="30.00" />
+    </Product>
+    <Product Name="Thermometer for Вath AGU TB4" Code="AGUTB4">
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="6.51" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="432.000" Amount="2933.93" />
+      <Document DocNumber="AG 2018-III/012 IGT " DocDate="2018-03-06" ChannelName="Kazahstan" Quantity="48.000" Amount="383.52" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="96.000" Amount="796.80" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="48.000" Amount="383.52" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="240.000" Amount="1917.60" />
+      <Document DocNumber="AG 2018-VI/034 ALT       " DocDate="2018-06-29" ChannelName="Belarus" Quantity="2.000" Amount="16.00" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="48.000" Amount="383.52" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="144.000" Amount="1195.20" />
+    </Product>
+    <Product Name="GPS Watch for kids &quot;Fixiki&quot; F1" Code="AGUF1">
+      <Document DocNumber="AG 2018-I/003 ALT        " DocDate="2018-01-23" ChannelName="Belarus" Quantity="1.000" Amount="16.50" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="50.000" Amount="1270.00" />
+      <Document DocNumber="AG 2018-VII/037 ALT      " DocDate="2018-07-16" ChannelName="Belarus" Quantity="50.000" Amount="1270.00" />
+    </Product>
+    <Product Name="Electronic Baby Scales with stadiometer AGU BSS1" Code="AGUBSS1">
+      <Document DocNumber="AG 2018-I/001 IGT   " DocDate="2018-01-09" ChannelName="Kazahstan" Quantity="120.000" Amount="4642.80" />
+      <Document DocNumber="AG 2018-I/004 ALT        " DocDate="2018-01-24" ChannelName="Belarus" Quantity="63.000" Amount="2081.49" />
+      <Document DocNumber="AG 2017-I/002 GP    " DocDate="2018-01-25" ChannelName="Armenia" Quantity="30.000" Amount="1305.00" />
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="31.51" />
+      <Document DocNumber="AG 2018-III/016 BL  " DocDate="2018-02-21" ChannelName="Italy" Quantity="1.000" Amount="31.74" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="90.000" Amount="2973.55" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="15.000" Amount="651.00" />
+      <Document DocNumber="AG 2018-IV/022 ALT       " DocDate="2018-04-19" ChannelName="Belarus" Quantity="90.000" Amount="3906.00" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="30.000" Amount="1302.00" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="24.000" Amount="1041.60" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="132.000" Amount="5107.08" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="6.000" Amount="260.16" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="72.000" Amount="2965.68" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="66.000" Amount="2864.40" />
+    </Product>
+    <Product Name="Smart Natural Light Lamp AGU SUN1 PLUS" Code="AGUSUN1 Plus">
+      <Document DocNumber="AG 2018-VI/033 ALT       " DocDate="2018-06-26" ChannelName="Belarus" Quantity="1.000" Amount="50.00" />
+    </Product>
+    <Product Name="Preparing Machine for  Baby Formula AGU PMBF2" Code="AGUPMBF2">
+      <Document DocNumber="AG 2018-I/001 IGT   " DocDate="2018-01-09" ChannelName="Kazahstan" Quantity="60.000" Amount="5769.00" />
+      <Document DocNumber="AG 2018-II/005 ALT       " DocDate="2018-02-06" ChannelName="Belarus" Quantity="192.000" Amount="16473.60" />
+      <Document DocNumber="AG 2018-II/007 NP   " DocDate="2018-02-13" ChannelName="Czech Republic" Quantity="1.000" Amount="54.56" />
+      <Document DocNumber="AG 2018-III/016 BL  " DocDate="2018-02-21" ChannelName="Italy" Quantity="1.000" Amount="67.32" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="260.000" Amount="18961.80" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="12.000" Amount="1153.20" />
+      <Document DocNumber="AG 2018-V/025 S     " DocDate="2018-05-18" ChannelName="Bulgaria" Quantity="12.000" Amount="1153.20" />
+      <Document DocNumber="AG 2018-V/026 NP    " DocDate="2018-05-28" ChannelName="Czech Republic" Quantity="12.000" Amount="1153.20" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="72.000" Amount="6919.20" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="4.000" Amount="384.40" />
+      <Document DocNumber="AG 2018-VII/035 AS  " DocDate="2018-07-10" ChannelName="Russia" Quantity="40.000" Amount="3844.00" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="24.000" Amount="2306.40" />
+    </Product>
+    <Product Name="Mesh nebulizer AGU N7 " Code="AGUN7">
+      <Document DocNumber="AG 2018-I/004 ALT        " DocDate="2018-01-24" ChannelName="Belarus" Quantity="310.000" Amount="17583.36" />
+      <Document DocNumber="AG 2018-II/005 ALT       " DocDate="2018-02-06" ChannelName="Belarus" Quantity="216.000" Amount="14409.36" />
+      <Document DocNumber="AG 2018-II/010 ALT       " DocDate="2018-02-23" ChannelName="Belarus" Quantity="1466.000" Amount="83850.07" />
+      <Document DocNumber="AG 2018-III/015 ME       " DocDate="2018-03-13" ChannelName="Belarus" Quantity="48.000" Amount="3685.44" />
+      <Document DocNumber="AG 2018-III/013 S   " DocDate="2018-03-16" ChannelName="Bulgaria" Quantity="24.000" Amount="792.48" />
+    </Product>
+    <Product Name="Nasal aspirator AGU NS19" Code="AGUNS19">
+      <Document DocNumber="AG 2018-III/019 DM       " DocDate="2018-03-21" ChannelName="Belarus" Quantity="7.000" Amount="35.00" />
+      <Document DocNumber="AG 2018-III/017 BL  " DocDate="2018-03-22" ChannelName="Italy" Quantity="3.000" Amount="39.15" />
+      <Document DocNumber="AG 2018-VI/027 S    " DocDate="2018-06-07" ChannelName="Bulgaria" Quantity="108.000" Amount="1976.40" />
+      <Document DocNumber="AG 2018-VI/029 IGT  " DocDate="2018-06-19" ChannelName="Kazahstan" Quantity="828.000" Amount="15152.40" />
+      <Document DocNumber="AG 2018-VI/032 NL   " DocDate="2018-06-22" ChannelName="Romania" Quantity="36.000" Amount="658.44" />
+      <Document DocNumber="AG 2018-VII/038 S   " DocDate="2018-07-23" ChannelName="Bulgaria" Quantity="108.000" Amount="1976.40" />
+      <Document DocNumber="AG 2018-VII/039 ALT      " DocDate="2018-07-24" ChannelName="Belarus" Quantity="432.000" Amount="13538.88" />
+    </Product>
+  </Products>
+</Report>
